@@ -1,0 +1,8 @@
+{
+  "name": "ponytail-plus",
+  "version": "1.0.0",
+  "description": "Lazy senior dev mode: think expensive, write cheap. Ponytail's ladder + Karpathy's think-first and surgical changes + ponystack's phase router + Chisle's token diet.",
+  "author": { "name": "FrescaInsalata" },
+  "license": "MIT",
+  "hooks": "./hooks/hooks.json"
+}

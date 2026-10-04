@@ -1,0 +1,11 @@
+{
+  "name": "ponytail-plus",
+  "owner": { "name": "FrescaInsalata" },
+  "plugins": [
+    {
+      "name": "ponytail-plus",
+      "source": "./",
+      "description": "Lazy senior dev mode: think expensive, write cheap."
+    }
+  ]
+}
